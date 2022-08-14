@@ -1,0 +1,365 @@
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-10 22:05:54
+
+id::dsa
+password::D
+Status::failed
+Time::2022-02-13 14:04:25
+Atempt::1
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-13 14:04:32
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-13 16:13:53
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:14:10
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:18:49
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:24:06
+
+id::
+password::
+Status::failed
+Time::2022-02-13 16:26:09
+Atempt::1
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:35:42
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:40:27
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-13 16:41:46
+
+id::23
+password::az
+type::Manager
+Status::Success
+Time::2022-02-13 16:52:42
+
+id::21
+password::ax
+type::Manager
+Status::Success
+Time::2022-02-13 16:53:20
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-13 16:56:16
+
+id::dsa
+password::D
+Status::failed
+Time::2022-02-13 16:57:15
+Atempt::1
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-13 16:57:22
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-13 17:03:16
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-14 12:14:35
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-14 12:16:54
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-14 12:17:17
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-14 12:19:01
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-14 12:49:21
+
+id::tp056815
+password::o
+Status::failed
+Time::2022-02-14 12:50:32
+Atempt::1
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-14 12:50:38
+
+id::1234
+password::we
+Status::failed
+Time::2022-02-14 12:53:57
+Atempt::1
+
+id::1234
+password::qw
+type::Technician
+Status::Success
+Time::2022-02-14 12:54:19
+
+id::tp0567815
+password::ok
+Status::failed
+Time::2022-02-14 12:54:34
+Atempt::1
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-14 12:54:43
+
+id::1234
+password::qw
+type::Technician
+Status::Success
+Time::2022-02-14 12:55:33
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-15 18:42:03
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-15 19:03:42
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-15 19:05:02
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-15 19:08:02
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:41:55
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:45:46
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:48:44
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:49:21
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:49:44
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:50:39
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:51:03
+
+id::qaz
+password::123
+type::Manager
+Status::Success
+Time::2022-02-18 15:51:51
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-18 15:52:03
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-18 15:53:59
+
+id::dsa
+password::ok
+Status::failed
+Time::2022-02-18 15:57:07
+Atempt::1
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-18 15:57:12
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:57:23
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-18 15:59:09
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 15:59:15
+
+id::tp
+password::f
+Status::failed
+Time::2022-02-18 16:18:55
+Atempt::1
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-18 16:19:09
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 16:19:49
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-18 16:22:55
+
+id::123
+password::123
+type::Technician
+Status::Success
+Time::2022-02-18 16:25:04
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-23 19:32:43
+
+id::tp0
+password::wer
+Status::failed
+Time::2022-02-23 19:35:51
+Atempt::1
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-23 19:36:08
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-23 19:43:58
+
+id::x1x
+password::123
+type::Technician
+Status::Success
+Time::2022-02-23 19:46:30
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-24 12:07:08
+
+id::tp056815
+password::ok
+type::Manager
+Status::Success
+Time::2022-02-24 12:08:59
+
+id::dsa
+password::d
+type::Technician
+Status::Success
+Time::2022-02-24 12:09:49

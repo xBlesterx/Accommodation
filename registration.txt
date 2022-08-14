@@ -1,0 +1,8 @@
+ID::NAME::TELEPHONE::EMAIL::ROOMID
+qq1::qwe::12123::qwewe::j-1-2
+
+we1::qwe::123::qwe@gmail.com::j-0-1
+
+TP9::alex::24342343::alex@gmail.com::j-11-11
+
+TP20::lester::2342342343::lester@gmail.com::j-12-12
